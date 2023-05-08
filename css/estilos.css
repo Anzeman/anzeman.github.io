@@ -30,9 +30,10 @@ header .menu{
     justify-content: flex-end;
     flex-wrap: wrap;
 }
-header .menu .logo {
+header .contenedor .menu .logo {
     width: 60px;
-    
+    height: 60px;
+    justify-content: flex-start;    
 
 }
 header .menu a:hover{
